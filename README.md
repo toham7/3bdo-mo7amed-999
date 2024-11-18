@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/3bdo-mo7amed-999/logo.png.git" />  
+ <img src="gh repo clone 3bdo-mo7amed-999/logo.png" />  
 </div>
 
 <br>
